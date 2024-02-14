@@ -4,5 +4,4 @@ public class Main {
         Display Menu = new Display(phoneBook);
         Menu.displayMenu();
     }
-
 }
